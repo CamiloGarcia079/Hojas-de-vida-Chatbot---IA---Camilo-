@@ -1,0 +1,17 @@
+Puesto: Desarrollador Backend Junior
+
+Requisitos obligatorios:
+- 1+ año de experiencia desarrollando APIs REST
+- Java con Spring Boot o Python
+- Bases de datos relacionales (PostgreSQL o MySQL)
+- Manejo de Git
+
+Requisitos deseables:
+- Docker
+- Pruebas automatizadas
+- Experiencia con LangChain o modelos de IA
+
+Responsabilidades:
+- Desarrollar y mantener servicios backend
+- Integrar APIs de terceros
+- Escribir y mantener pruebas

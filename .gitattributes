@@ -1,0 +1,4 @@
+# Los scripts de Linux siempre con fin de línea LF, aunque se suban desde Windows
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf

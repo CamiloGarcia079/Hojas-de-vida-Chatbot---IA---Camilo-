@@ -1,0 +1,11 @@
+# Lo mínimo para el Analizador de CVs (lo usa iniciar.sh / iniciar.ps1 sin Docker).
+# El requirements.txt de la raíz instala todo el entorno del curso.
+streamlit
+langchain-core
+langchain-openai
+langchain-google-genai
+pydantic
+python-dotenv
+# Lectura de PDF. pypdf es el nombre actual de PyPDF2 (mismo proyecto, renombrado).
+pypdf
+pytest

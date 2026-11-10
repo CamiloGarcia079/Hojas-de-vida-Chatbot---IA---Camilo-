@@ -1,0 +1,42 @@
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+!.env.*.example
+.streamlit/secrets.toml
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Python: bytecode, paquetes y compilaciones
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Cachés y cobertura
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.ipynb_checkpoints/
+
+# Archivos temporales y registros
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+._*
+Thumbs.db

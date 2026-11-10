@@ -1,0 +1,25 @@
+langchain
+langchain-core
+langchain-openai
+langchain-google-genai
+langgraph
+
+streamlit
+
+psycopg[binary]
+SQLAlchemy
+chromadb
+python-dotenv
+pydantic
+pandas
+
+# Analizador de CVs: lectura de PDF (pypdf = nombre actual de PyPDF2)
+pypdf
+
+pytest
+black
+ruff
+ipython
+
+langchain-postgres
+pgvector
